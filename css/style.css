@@ -1,0 +1,204 @@
+@font-face
+{
+font-family: euro;
+src: url(../font/Futuramc.woff);
+}
+
+body{
+	padding:0;
+	margin:0;
+	font-family: euro;
+}
+#wrapper{
+	width: 100%;
+	height:100%;
+	padding:0;
+	margin:0 auto;
+	position:relative;
+}
+
+#map {
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:100px;
+}
+
+.leaflet-control-container {
+	top: 330px;
+	position: absolute;
+}
+
+#top {
+	height: 100px;
+	bottom:0;
+	position:relative;
+	width:100%;
+	z-index:900;
+	background:#F5F5F5;
+	-webkit-box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+}
+
+#input{
+	margin:0 auto;
+	width: 900px;
+	position:relative;
+}
+
+#btn{
+	background: url(../img/btn.png);
+	position: absolute;
+	top: 26px;
+	right: 90px;
+	width: 50px;
+	height: 58px;
+}
+
+#btn:hover{
+	background: url(../img/btn-hover.png);
+	cursor:pointer;
+	-webkit-transition: background 300ms ease-in;
+	-moz-transition: background 300ms ease-in;
+	-ms-transition: background 300ms ease-in;
+	-o-transition: background 300ms ease-in;
+	transition: background 300ms ease-in;
+}
+
+select{
+	color: #888888;
+	background-color: #ffffff;
+	border-color: #e3e3e3;
+	-webkit-box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px;
+	box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px;
+	margin: 32px 74px 0 27px;
+	font-size: 1.3em;
+	padding: 10px;
+	border: solid 1px #ccc;
+	width: 300px;
+	z-index:920;
+	position:absolute;
+}
+
+select#dropdown2 {
+	left:402px;
+}
+
+#vergelijkwrapper{
+	position: relative;
+	width: 960px;
+	margin: 0 auto;
+}
+
+#vergelijktekst{
+	font-size:40px;
+	position:absolute;
+	font-weight:bold;
+	left: 128px;
+	top: 5px;
+	text-align:center;
+	z-index:900;
+	color: #171717;
+}
+
+span#selecteer{
+	font-size: 19px;
+}
+
+#vergelijk{
+	width:960px;
+	height:550px;
+	position:absolute;
+	top:-610px;
+	z-index:800;
+}
+
+#back{
+	width:50px;
+	height:50px;
+	background:url(../img/top.png) #efefef no-repeat center center;
+	float:right;
+	-webkit-box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+}
+
+#back:hover{
+	cursor:pointer;
+	background:url(../img/top-hover.png) #fff no-repeat center center;
+	-webkit-transition: background 300ms ease-in;
+	-moz-transition: background 300ms ease-in;
+	-ms-transition: background 300ms ease-in;
+	-o-transition: background 300ms ease-in;
+	transition: background 300ms ease-in;
+}
+
+.columns{
+	height: 440px;
+	float: left;
+	padding:30px;
+	-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+	text-align:center;
+}
+
+#charttitle{
+	font-size: 26px;
+	text-align:center;
+	width:100%;
+	font-weight:bold;
+}
+
+#chart1{
+	border-right: 1px dashed grey; 
+	background: #e3e3e3;
+	width: 419px;
+}
+
+#chart2{
+	background: #efefef;
+	width:420px;
+}
+
+#uitleg {
+	background:#E8E8E8;
+	height: 36px;
+	padding: 15px 0px 0px 0px;
+	width: 100%;
+	float: left;
+	text-align: center;
+	font-style:italic;
+	font-weight:bold;
+	box-shadow: 0px 7px 20px -5px rgba(0,0,0,0.2);
+	webkit-box-shadow: 0px 7px 20px -5px rgba(0,0,0,0.2);
+	font-family:arial;
+}
+
+#popupTitel{
+	font-size: 18;
+	font-weight: bold;
+}
+
+#popupTekst{
+	text-align: center;
+}
+
+#popupTekst a:link, #popupTekst a:visited, #bron a:link, #bron a:visited{
+	color: #fa5e00;
+	text-decoration: underline;
+}
+
+#popupTekst  a:hover, #bron  a:hover{
+	color: #1d1d1b;
+	text-decoration: none;
+}
+#bron {
+	padding:10px;
+	background: #f2f2f2;
+	position:absolute;
+	right:10px;
+	bottom:10px;
+	font-size:10px;
+	font-style:italic;
+	-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+}

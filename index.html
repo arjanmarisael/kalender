@@ -1,0 +1,63 @@
+<html>
+<head>
+<link rel="stylesheet" href="css/leaflet.css" />
+<link rel="stylesheet" href="css/style.css" />
+
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+<script src="js/Chart.js"></script>
+<script src="js/staddata.json"></script>
+<script src="js/site.js"></script>
+<script src="js/map.js"></script>
+
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="map"></div>
+	<div id="top">
+		<div id="input">
+			<select id="dropdown1" type='dropdown'><option></option></select>
+			<div id="vergelijktekst"><span id="selecteer">Vergelijk de zonsopkomst en zonsondergang tijden van steden onderling</span><br><span id="versus">vs</span></div>
+			<select id="dropdown2" type='dropdown'><option></option></select>
+			<div id="btn"></div>
+		</div>
+	</div>
+	<div id="vergelijkwrapper">
+		<div id="vergelijk">
+			<div id="chart1" class="columns"><span id="charttitle"></span><canvas id="myChart1" width="400" height="400"></canvas></div>
+			<div id="chart2" class="columns"><span id="charttitle"></span><canvas id="myChart2" width="400" height="400"></canvas></div>
+			<div id="uitleg">De binnenste oranje ring is de tijd van de zonsopkomst en de buitenste ring is de tijd van de zonsondergang. </div>
+			<div title="Close" alt="Close" id="back"></div>
+		</div>
+	</div>
+	<div id="bron">Bron: <a href="http://www.aptl72.dsl.pipex.com/suntimes.htm" target="_blank">SunTimes v7.1</a></div>
+</div>
+</body>
+<script>
+$( document ).ready(function() {
+	addMap();  
+});
+
+$( "#btn" ).click(function() {
+	console.log(stad1 + " " + stad2);
+ 	if(stad1 == stad2){
+ 		alert("Kies 2 verschillende steden");
+ 	}
+ 	else{
+ 		$("#chart1 #charttitle").html(stad1);
+ 		$("#chart2 #charttitle").html(stad2);
+ 		$("#vergelijk").animate({"top":70},1000);
+ 		setTimeout(function(){
+ 			drawChart(stad1,chart1);
+ 			drawChart(stad2,chart2);
+ 		},600);
+ 		open = true;
+ 	}
+});
+$( "#back" ).click(function() {
+ 	$("#vergelijk").animate({"top":-610},1000);
+ 	open = false;
+});
+</script>
+</html>

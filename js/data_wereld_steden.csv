@@ -1,0 +1,301 @@
+Stad;Land;Latitude;Longtitude;Maand;Zonsopgang (gem);Zonsondergang (gem)
+Amsterdam;Nederland;52.370216;4.895168;januari;0,36;0,71
+Amsterdam;Nederland;52.370216;4.895168;februari;0,33;0,74
+Amsterdam;Nederland;52.370216;4.895168;maart;0,30;0,79
+Amsterdam;Nederland;52.370216;4.895168;april;0,28;0,86
+Amsterdam;Nederland;52.370216;4.895168;mei;0,24;0,90
+Amsterdam;Nederland;52.370216;4.895168;juni;0,22;0,92
+Amsterdam;Nederland;52.370216;4.895168;juli;0,24;0,91
+Amsterdam;Nederland;52.370216;4.895168;augustus;0,27;0,88
+Amsterdam;Nederland;52.370216;4.895168;september;0,30;0,83
+Amsterdam;Nederland;52.370216;4.895168;oktober;0,33;0,77
+Amsterdam;Nederland;52.370216;4.895168;november;0,34;0,70
+Amsterdam;Nederland;52.370216;4.895168;december;0,36;0,69
+Boekarest;Roemenië;44.432500;26.103889;januari;0,32;0,71
+Boekarest;Roemenië;44.432500;26.103889;februari;0,30;0,74
+Boekarest;Roemenië;44.432500;26.103889;maart;0,28;0,78
+Boekarest;Roemenië;44.432500;26.103889;april;0,27;0,83
+Boekarest;Roemenië;44.432500;26.103889;mei;0,24;0,86
+Boekarest;Roemenië;44.432500;26.103889;juni;0,23;0,88
+Boekarest;Roemenië;44.432500;26.103889;juli;0,24;0,87
+Boekarest;Roemenië;44.432500;26.103889;augustus;0,26;0,85
+Boekarest;Roemenië;44.432500;26.103889;september;0,29;0,81
+Boekarest;Roemenië;44.432500;26.103889;oktober;0,31;0,77
+Boekarest;Roemenië;44.432500;26.103889;november;0,30;0,70
+Boekarest;Roemenië;44.432500;26.103889;december;0,32;0,69
+Helsinki;Finland;60.173324;24.941025;januari;0,38;0,66
+Helsinki;Finland;60.173324;24.941025;februari;0,33;0,71
+Helsinki;Finland;60.173324;24.941025;maart;0,28;0,78
+Helsinki;Finland;60.173324;24.941025;april;0,25;0,86
+Helsinki;Finland;60.173324;24.941025;mei;0,19;0,91
+Helsinki;Finland;60.173324;24.941025;juni;0,16;0,95
+Helsinki;Finland;60.173324;24.941025;juli;0,18;0,93
+Helsinki;Finland;60.173324;24.941025;augustus;0,23;0,88
+Helsinki;Finland;60.173324;24.941025;september;0,28;0,82
+Helsinki;Finland;60.173324;24.941025;oktober;0,33;0,75
+Helsinki;Finland;60.173324;24.941025;november;0,35;0,66
+Helsinki;Finland;60.173324;24.941025;december;0,39;0,64
+Madrid;Spanje;40.416775;-3.703790;januari;0,36;0,76
+Madrid;Spanje;40.416775;-3.703790;februari;0,34;0,78
+Madrid;Spanje;40.416775;-3.703790;maart;0,32;0,82
+Madrid;Spanje;40.416775;-3.703790;april;0,32;0,87
+Madrid;Spanje;40.416775;-3.703790;mei;0,29;0,89
+Madrid;Spanje;40.416775;-3.703790;juni;0,28;0,91
+Madrid;Spanje;40.416775;-3.703790;juli;0,29;0,90
+Madrid;Spanje;40.416775;-3.703790;augustus;0,31;0,88
+Madrid;Spanje;40.416775;-3.703790;september;0,33;0,85
+Madrid;Spanje;40.416775;-3.703790;oktober;0,35;0,81
+Madrid;Spanje;40.416775;-3.703790;november;0,33;0,75
+Madrid;Spanje;40.416775;-3.703790;december;0,35;0,74
+Reykjavik;IJsland;64.135338;-21.895210;januari;0,45;0,68
+Reykjavik;IJsland;64.135338;-21.895210;februari;0,39;0,75
+Reykjavik;IJsland;64.135338;-21.895210;maart;0,32;0,81
+Reykjavik;IJsland;64.135338;-21.895210;april;0,25;0,88
+Reykjavik;IJsland;64.135338;-21.895210;mei;0,17;0,95
+Reykjavik;IJsland;64.135338;-21.895210;juni;0,13;0,99
+Reykjavik;IJsland;64.135338;-21.895210;juli;0,16;0,97
+Reykjavik;IJsland;64.135338;-21.895210;augustus;0,22;0,90
+Reykjavik;IJsland;64.135338;-21.895210;september;0,29;0,83
+Reykjavik;IJsland;64.135338;-21.895210;oktober;0,35;0,75
+Reykjavik;IJsland;64.135338;-21.895210;november;0,42;0,69
+Reykjavik;IJsland;64.135338;-21.895210;december;0,47;0,65
+Denver;Verenigde Staten;39.73757;-104.98472;januari;0,30;0,71
+Denver;Verenigde Staten;39.73757;-104.98472;februari;0,29;0,73
+Denver;Verenigde Staten;39.73757;-104.98472;maart;0,28;0,78
+Denver;Verenigde Staten;39.73757;-104.98472;april;0,26;0,82
+Denver;Verenigde Staten;39.73757;-104.98472;mei;0,24;0,84
+Denver;Verenigde Staten;39.73757;-104.98472;juni;0,23;0,85
+Denver;Verenigde Staten;39.73757;-104.98472;juli;0,24;0,85
+Denver;Verenigde Staten;39.73757;-104.98472;augustus;0,26;0,83
+Denver;Verenigde Staten;39.73757;-104.98472;september;0,28;0,80
+Denver;Verenigde Staten;39.73757;-104.98472;oktober;0,30;0,76
+Denver;Verenigde Staten;39.73757;-104.98472;november;0,29;0,70
+Denver;Verenigde Staten;39.73757;-104.98472;december;0,30;0,69
+Havana;Cuba;23.11680;-82.38856;januari;0,30;0,75
+Havana;Cuba;23.11680;-82.38856;februari;0,29;0,77
+Havana;Cuba;23.11680;-82.38856;maart;0,30;0,81
+Havana;Cuba;23.11680;-82.38856;april;0,30;0,83
+Havana;Cuba;23.11680;-82.38856;mei;0,28;0,84
+Havana;Cuba;23.11680;-82.38856;juni;0,28;0,84
+Havana;Cuba;23.11680;-82.38856;juli;0,29;0,85
+Havana;Cuba;23.11680;-82.38856;augustus;0,30;0,83
+Havana;Cuba;23.11680;-82.38856;september;0,30;0,81
+Havana;Cuba;23.11680;-82.38856;oktober;0,31;0,79
+Havana;Cuba;23.11680;-82.38856;november;0,28;0,74
+Havana;Cuba;23.11680;-82.38856;december;0,29;0,74
+Mexico-Stad;Mexico;19.43261;-99.13321;januari;0,30;0,76
+Mexico-Stad;Mexico;19.43261;-99.13321;februari;0,29;0,78
+Mexico-Stad;Mexico;19.43261;-99.13321;maart;0,28;0,78
+Mexico-Stad;Mexico;19.43261;-99.13321;april;0,30;0,83
+Mexico-Stad;Mexico;19.43261;-99.13321;mei;0,29;0,84
+Mexico-Stad;Mexico;19.43261;-99.13321;juni;0,29;0,84
+Mexico-Stad;Mexico;19.43261;-99.13321;juli;0,30;0,85
+Mexico-Stad;Mexico;19.43261;-99.13321;augustus;0,30;0,84
+Mexico-Stad;Mexico;19.43261;-99.13321;september;0,31;0,82
+Mexico-Stad;Mexico;19.43261;-99.13321;oktober;0,31;0,80
+Mexico-Stad;Mexico;19.43261;-99.13321;november;0,28;0,75
+Mexico-Stad;Mexico;19.43261;-99.13321;december;0,29;0,75
+New York;Verenigde Staten;40.71435;-74.00597;januari;0,30;0,70
+New York;Verenigde Staten;40.71435;-74.00597;februari;0,28;0,73
+New York;Verenigde Staten;40.71435;-74.00597;maart;0,28;0,78
+New York;Verenigde Staten;40.71435;-74.00597;april;0,26;0,82
+New York;Verenigde Staten;40.71435;-74.00597;mei;0,24;0,84
+New York;Verenigde Staten;40.71435;-74.00597;juni;0,23;0,85
+New York;Verenigde Staten;40.71435;-74.00597;juli;0,24;0,85
+New York;Verenigde Staten;40.71435;-74.00597;augustus;0,26;0,83
+New York;Verenigde Staten;40.71435;-74.00597;september;0,28;0,79
+New York;Verenigde Staten;40.71435;-74.00597;oktober;0,30;0,76
+New York;Verenigde Staten;40.71435;-74.00597;november;0,28;0,70
+New York;Verenigde Staten;40.71435;-74.00597;december;0,30;0,69
+Vancouver;Canada;49.26123;-123.11393;januari;0,33;0,70
+Vancouver;Canada;49.26123;-123.11393;februari;0,31;0,73
+Vancouver;Canada;49.26123;-123.11393;maart;0,29;0,79
+Vancouver;Canada;49.26123;-123.11393;april;0,26;0,84
+Vancouver;Canada;49.26123;-123.11393;mei;0,23;0,87
+Vancouver;Canada;49.26123;-123.11393;juni;0,21;0,89
+Vancouver;Canada;49.26123;-123.11393;juli;0,23;0,88
+Vancouver;Canada;49.26123;-123.11393;augustus;0,25;0,85
+Vancouver;Canada;49.26123;-123.11393;september;0,29;0,81
+Vancouver;Canada;49.26123;-123.11393;oktober;0,32;0,76
+Vancouver;Canada;49.26123;-123.11393;november;0,31;0,69
+Vancouver;Canada;49.26123;-123.11393;december;0,33;0,68
+Caïro;Egypte;30.04442;31.23571;januari;0,29;0,72
+Caïro;Egypte;30.04442;31.23571;februari;0,27;0,74
+Caïro;Egypte;30.04442;31.23571;maart;0,25;0,75
+Caïro;Egypte;30.04442;31.23571;april;0,23;0,77
+Caïro;Egypte;30.04442;31.23571;mei;0,25;0,82
+Caïro;Egypte;30.04442;31.23571;juni;0,25;0,83
+Caïro;Egypte;30.04442;31.23571;juli;0,25;0,83
+Caïro;Egypte;30.04442;31.23571;augustus;0,26;0,81
+Caïro;Egypte;30.04442;31.23571;september;0,24;0,75
+Caïro;Egypte;30.04442;31.23571;oktober;0,25;0,72
+Caïro;Egypte;30.04442;31.23571;november;0,26;0,71
+Caïro;Egypte;30.04442;31.23571;december;0,28;0,71
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;januari;0,24;0,83
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;februari;0,26;0,82
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;maart;0,28;0,79
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;april;0,30;0,77
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;mei;0,31;0,75
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;juni;0,33;0,74
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;juli;0,32;0,75
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;augustus;0,31;0,76
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;september;0,28;0,78
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;oktober;0,25;0,79
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;november;0,23;0,81
+Kaapstad;Zuid-Afrika;-33.92487;18.42406;december;0,23;0,83
+Marrakech;Marokko;31.63333;-8.00000;januari;0,31;0,74
+Marrakech;Marokko;31.63333;-8.00000;februari;0,30;0,76
+Marrakech;Marokko;31.63333;-8.00000;maart;0,28;0,78
+Marrakech;Marokko;31.63333;-8.00000;april;0,25;0,79
+Marrakech;Marokko;31.63333;-8.00000;mei;0,23;0,81
+Marrakech;Marokko;31.63333;-8.00000;juni;0,23;0,82
+Marrakech;Marokko;31.63333;-8.00000;juli;0,24;0,82
+Marrakech;Marokko;31.63333;-8.00000;augustus;0,25;0,80
+Marrakech;Marokko;31.63333;-8.00000;september;0,26;0,78
+Marrakech;Marokko;31.63333;-8.00000;oktober;0,28;0,75
+Marrakech;Marokko;31.63333;-8.00000;november;0,29;0,73
+Marrakech;Marokko;31.63333;-8.00000;december;0,31;0,73
+Nairobi;Kenia;-1.29207;36.82195;januari;0,28;0,78
+Nairobi;Kenia;-1.29207;36.82195;februari;0,28;0,79
+Nairobi;Kenia;-1.29207;36.82195;maart;0,28;0,78
+Nairobi;Kenia;-1.29207;36.82195;april;0,27;0,77
+Nairobi;Kenia;-1.29207;36.82195;mei;0,27;0,77
+Nairobi;Kenia;-1.29207;36.82195;juni;0,27;0,77
+Nairobi;Kenia;-1.29207;36.82195;juli;0,28;0,78
+Nairobi;Kenia;-1.29207;36.82195;augustus;0,27;0,78
+Nairobi;Kenia;-1.29207;36.82195;september;0,27;0,77
+Nairobi;Kenia;-1.29207;36.82195;oktober;0,26;0,77
+Nairobi;Kenia;-1.29207;36.82195;november;0,26;0,77
+Nairobi;Kenia;-1.29207;36.82195;december;0,27;0,77
+Yaoundré;Kameroen;3.86667;11.51667;januari;0,27;0,76
+Yaoundré;Kameroen;3.86667;11.51667;februari;0,27;0,77
+Yaoundré;Kameroen;3.86667;11.51667;maart;0,26;0,77
+Yaoundré;Kameroen;3.86667;11.51667;april;0,26;0,76
+Yaoundré;Kameroen;3.86667;11.51667;mei;0,25;0,76
+Yaoundré;Kameroen;3.86667;11.51667;juni;0,25;0,77
+Yaoundré;Kameroen;3.86667;11.51667;juli;0,26;0,77
+Yaoundré;Kameroen;3.86667;11.51667;augustus;0,26;0,77
+Yaoundré;Kameroen;3.86667;11.51667;september;0,25;0,76
+Yaoundré;Kameroen;3.86667;11.51667;oktober;0,25;0,75
+Yaoundré;Kameroen;3.86667;11.51667;november;0,25;0,75
+Yaoundré;Kameroen;3.86667;11.51667;december;0,26;0,75
+Asunción;Paraguay;-25.28220;-57.63510;januari;0,26;0,82
+Asunción;Paraguay;-25.28220;-57.63510;februari;0,27;0,81
+Asunción;Paraguay;-25.28220;-57.63510;maart;0,26;0,77
+Asunción;Paraguay;-25.28220;-57.63510;april;0,25;0,73
+Asunción;Paraguay;-25.28220;-57.63510;mei;0,26;0,72
+Asunción;Paraguay;-25.28220;-57.63510;juni;0,27;0,71
+Asunción;Paraguay;-25.28220;-57.63510;juli;0,27;0,72
+Asunción;Paraguay;-25.28220;-57.63510;augustus;0,26;0,73
+Asunción;Paraguay;-25.28220;-57.63510;september;0,24;0,74
+Asunción;Paraguay;-25.28220;-57.63510;oktober;0,23;0,76
+Asunción;Paraguay;-25.28220;-57.63510;november;0,25;0,80
+Asunción;Paraguay;-25.28220;-57.63510;december;0,25;0,82
+Caracas;Venezuela;10.49102;-66.90206;januari;0,28;0,77
+Caracas;Venezuela;10.49102;-66.90206;februari;0,28;0,77
+Caracas;Venezuela;10.49102;-66.90206;maart;0,27;0,78
+Caracas;Venezuela;10.49102;-66.90206;april;0,26;0,78
+Caracas;Venezuela;10.49102;-66.90206;mei;0,25;0,78
+Caracas;Venezuela;10.49102;-66.90206;juni;0,25;0,79
+Caracas;Venezuela;10.49102;-66.90206;juli;0,26;0,79
+Caracas;Venezuela;10.49102;-66.90206;augustus;0,26;0,78
+Caracas;Venezuela;10.49102;-66.90206;september;0,26;0,77
+Caracas;Venezuela;10.49102;-66.90206;oktober;0,26;0,76
+Caracas;Venezuela;10.49102;-66.90206;november;0,27;0,75
+Caracas;Venezuela;10.49102;-66.90206;december;0,28;0,76
+Lima;Peru;-12.04782;-77.06220;januari;0,25;0,78
+Lima;Peru;-12.04782;-77.06220;februari;0,26;0,78
+Lima;Peru;-12.04782;-77.06220;maart;0,26;0,76
+Lima;Peru;-12.04782;-77.06220;april;0,26;0,75
+Lima;Peru;-12.04782;-77.06220;mei;0,26;0,74
+Lima;Peru;-12.04782;-77.06220;juni;0,27;0,74
+Lima;Peru;-12.04782;-77.06220;juli;0,27;0,75
+Lima;Peru;-12.04782;-77.06220;augustus;0,26;0,75
+Lima;Peru;-12.04782;-77.06220;september;0,25;0,75
+Lima;Peru;-12.04782;-77.06220;oktober;0,24;0,75
+Lima;Peru;-12.04782;-77.06220;november;0,23;0,76
+Lima;Peru;-12.04782;-77.06220;december;0,24;0,77
+Punta Arenas;Chili;-53.15448;-70.91648;januari;0,24;0,92
+Punta Arenas;Chili;-53.15448;-70.91648;februari;0,28;0,88
+Punta Arenas;Chili;-53.15448;-70.91648;maart;0,29;0,81
+Punta Arenas;Chili;-53.15448;-70.91648;april;0,31;0,75
+Punta Arenas;Chili;-53.15448;-70.91648;mei;0,35;0,71
+Punta Arenas;Chili;-53.15448;-70.91648;juni;0,37;0,69
+Punta Arenas;Chili;-53.15448;-70.91648;juli;0,37;0,70
+Punta Arenas;Chili;-53.15448;-70.91648;augustus;0,33;0,74
+Punta Arenas;Chili;-53.15448;-70.91648;september;0,28;0,77
+Punta Arenas;Chili;-53.15448;-70.91648;oktober;0,26;0,83
+Punta Arenas;Chili;-53.15448;-70.91648;november;0,23;0,89
+Punta Arenas;Chili;-53.15448;-70.91648;december;0,22;0,92
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;januari;0,26;0,82
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;februari;0,26;0,80
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;maart;0,25;0,75
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;april;0,25;0,74
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;mei;0,26;0,72
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;juni;0,27;0,72
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;juli;0,27;0,73
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;augustus;0,26;0,73
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;september;0,24;0,74
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;oktober;0,22;0,75
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;november;0,25;0,80
+Rio de Janeiro;Brazilië;-22.91340;-43.20071;december;0,25;0,82
+Astana;Kazachstan;51.16667;71.43333;januari;0,38;0,73
+Astana;Kazachstan;51.16667;71.43333;februari;0,35;0,77
+Astana;Kazachstan;51.16667;71.43333;maart;0,31;0,81
+Astana;Kazachstan;51.16667;71.43333;april;0,26;0,84
+Astana;Kazachstan;51.16667;71.43333;mei;0,22;0,87
+Astana;Kazachstan;51.16667;71.43333;juni;0,21;0,90
+Astana;Kazachstan;51.16667;71.43333;juli;0,22;0,89
+Astana;Kazachstan;51.16667;71.43333;augustus;0,25;0,86
+Astana;Kazachstan;51.16667;71.43333;september;0,28;0,81
+Astana;Kazachstan;51.16667;71.43333;oktober;0,32;0,76
+Astana;Kazachstan;51.16667;71.43333;november;0,36;0,73
+Astana;Kazachstan;51.16667;71.43333;december;0,38;0,71
+Jakarta;Indonesië;-6.21154;106.84517;januari;0,24;0,76
+Jakarta;Indonesië;-6.21154;106.84517;februari;0,25;0,76
+Jakarta;Indonesië;-6.21154;106.84517;maart;0,25;0,75
+Jakarta;Indonesië;-6.21154;106.84517;april;0,25;0,74
+Jakarta;Indonesië;-6.21154;106.84517;mei;0,25;0,74
+Jakarta;Indonesië;-6.21154;106.84517;juni;0,25;0,74
+Jakarta;Indonesië;-6.21154;106.84517;juli;0,25;0,74
+Jakarta;Indonesië;-6.21154;106.84517;augustus;0,25;0,75
+Jakarta;Indonesië;-6.21154;106.84517;september;0,24;0,74
+Jakarta;Indonesië;-6.21154;106.84517;oktober;0,23;0,74
+Jakarta;Indonesië;-6.21154;106.84517;november;0,23;0,74
+Jakarta;Indonesië;-6.21154;106.84517;december;0,23;0,75
+New Delhi;India;28.63531;77.22496;januari;0,30;0,74
+New Delhi;India;28.63531;77.22496;februari;0,29;0,76
+New Delhi;India;28.63531;77.22496;maart;0,27;0,77
+New Delhi;India;28.63531;77.22496;april;0,25;0,78
+New Delhi;India;28.63531;77.22496;mei;0,23;0,80
+New Delhi;India;28.63531;77.22496;juni;0,22;0,81
+New Delhi;India;28.63531;77.22496;juli;0,23;0,81
+New Delhi;India;28.63531;77.22496;augustus;0,24;0,79
+New Delhi;India;28.63531;77.22496;september;0,25;0,77
+New Delhi;India;28.63531;77.22496;oktober;0,27;0,74
+New Delhi;India;28.63531;77.22496;november;0,28;0,73
+New Delhi;India;28.63531;77.22496;december;0,30;0,73
+Tokio;Japan;35.68949;139.69171;januari;0,28;0,70
+Tokio;Japan;35.68949;139.69171;februari;0,27;0,72
+Tokio;Japan;35.68949;139.69171;maart;0,24;0,74
+Tokio;Japan;35.68949;139.69171;april;0,21;0,76
+Tokio;Japan;35.68949;139.69171;mei;0,19;0,78
+Tokio;Japan;35.68949;139.69171;juni;0,18;0,79
+Tokio;Japan;35.68949;139.69171;juli;0,19;0,79
+Tokio;Japan;35.68949;139.69171;augustus;0,21;0,77
+Tokio;Japan;35.68949;139.69171;september;0,22;0,74
+Tokio;Japan;35.68949;139.69171;oktober;0,24;0,71
+Tokio;Japan;35.68949;139.69171;november;0,26;0,69
+Tokio;Japan;35.68949;139.69171;december;0,28;0,69
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;januari;0,25;0,87
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;februari;0,28;0,85
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;maart;0,30;0,82
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;april;0,29;0,74
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;mei;0,31;0,72
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;juni;0,32;0,71
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;juli;0,32;0,72
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;augustus;0,30;0,74
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;september;0,27;0,76
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;oktober;0,27;0,82
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;november;0,25;0,85
+Wellington;Nieuw-Zeeland;-41.28646;174.77624;december;0,24;0,87
